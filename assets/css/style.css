@@ -1,0 +1,49 @@
+h1 {
+    background-color: orange;
+    padding: 20px, 10px, 20px, 10px;
+}
+
+h5 {
+    background-color: peachpuff;
+    padding: 50px;
+    margin-bottom: 150px;
+}
+
+h3 {
+    background-color: green;
+    padding: 25px, 15px, 25px, 15px;
+    margin: 30px, 20px, 30px, 20px;
+}
+
+#one {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+#two {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+#three {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+#four {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.container {
+    background-color: dodgerblue;
+}
+
+#userScore {
+    background-color: teal;
+}
+
+#yourScore {
+    background-color: teal;
+}
